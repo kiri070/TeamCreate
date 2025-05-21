@@ -9,7 +9,7 @@
 ![プレイGIF](https://github.com/kiri070/TeamCreate/raw/main/Assets/Gifs/portfolio03.gif)
 
 
-- ゲーム画面や機能の詳細はこちら
+- ゲーム画面や機能の詳細はこちら  
 プレイ映像 youtubeリンク→ https://youtu.be/Y4M4PJxXzC8
 
 ## 使用技術
