@@ -4,7 +4,8 @@
 ## 概要(制作途中)
 タイル上をなぞって敵を倒しながらゴールに辿りつくゲームです。現在、制作途中ですがチームで制作しています。
  
-## プレイ動画（GIF）
+## プレイ動画
+- GIF  
 
 ![プレイGIF](https://github.com/kiri070/TeamCreate/raw/main/Assets/Gifs/portfolio03.gif)
 
