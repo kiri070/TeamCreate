@@ -67,3 +67,6 @@ Assets/
 - 企画担当                      # 2人
 - モデリング、デザイン            # 2人
 
+## ポートフォリオ一覧に戻る
+https://github.com/kiri070/portfolio.git
+
